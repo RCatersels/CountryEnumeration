@@ -1,5 +1,5 @@
 # CountryEnumeration
-Mendix Country enumeration module for Mx 5.21.1
+Mendix Country enumeration module for Mx 5.12.0 and up. Seperate version for Mx 6 and 7.
 
 This module will update or create an ISO based country enumeration table with flag icons confrom ISO 3166-1. 
 It provides all current 249 countries with the Alpha-2 code, Alpha-3 code and numeric code.
